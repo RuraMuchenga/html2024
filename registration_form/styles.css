@@ -1,4 +1,4 @@
-/* General Styling */
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(to right, #e0f7fa, #e1bee7);
@@ -88,7 +88,7 @@ button:active {
     background-color: #004494;
 }
 
-/* Animations */
+
 @keyframes fadeIn {
     from {
         opacity: 0;
